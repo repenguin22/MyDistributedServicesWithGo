@@ -5,6 +5,6 @@ package log.v1;
 option go_package = "github.com/repenguin22/api/log_v1";
 
 message Record {
-  bytes value1 = 1;
+  bytes value = 1;
   uint64 offset = 2;
 }
