@@ -79,9 +79,10 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0-alpha.0 // indirect
 	go.etcd.io/etcd/tests/v3 v3.5.0-alpha.0 // indirect
 	go.etcd.io/etcd/v3 v3.5.0-alpha.0 // indirect
+	go.opencensus.io v0.24.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
-	go.uber.org/zap v1.16.0 // indirect
+	go.uber.org/zap v1.23.0 // indirect
 	golang.org/x/crypto v0.0.0-20220824171710-5757bc0c5503 // indirect
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
